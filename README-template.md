@@ -4,8 +4,9 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [Overview](Users should be able to:View the optimal layout for the site depending on their device's screen size
+See hover states for all interactive elements on the page)
+  - [The challenge](#)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -13,7 +14,7 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Author](salome rabodiba)
 - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -61,6 +62,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
+
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
@@ -84,6 +86,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 **Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
+While working through this project, I noticed I familiarize myself with the shortcut on doing things,it took me more time to develop because of not knowing the shortcut on performing my job.I will also need to practice js and css for future projects  
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
@@ -98,14 +101,15 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [salome.rabodiba](https://github/sallyrabs)
+- Frontend Mentor - [@sallyrabs](https://www.frontendmentor.io/profile/sallyrabs)
+- Twitter - [@yourusername](https://www.twitter.com/sallyrabs)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
-
+I acknowledge myself for all the hard work that i have given to this project.I was not an easy journey,though i have hold on an completed the project.
+I would also like to thank Mr Vukoni Mnisi who assisted me with pushing this project to github.  
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
