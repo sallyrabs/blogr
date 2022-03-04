@@ -88,7 +88,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 ### Continued development
 While working through this project, I noticed I familiarize myself with the shortcut on doing things,it took me more time to develop because of not knowing the shortcut on performing my job.I will also need to practice js and css for future projects  
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
@@ -108,8 +108,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
-I acknowledge myself for all the hard work that i have given to this project.I was not an easy journey,though i have hold on an completed the project.
+I acknowledge myself for all the hard work that I have given to this project.I was not an easy journey,though i have hold on an completed the project.
 I would also like to thank Mr Vukoni Mnisi who assisted me with pushing this project to github.  
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
